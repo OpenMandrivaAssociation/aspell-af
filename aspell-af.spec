@@ -9,7 +9,7 @@
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
 Version:	0.50.0
-Release:	23
+Release:	24
 Group:		System/Internationalization
 License:	LGPL
 Provides:	spell-%{languagecode}
