@@ -13,7 +13,7 @@ Release:	24
 Group:		System/Internationalization
 License:	LGPL
 Provides:	spell-%{languagecode}
-Url:		http://aspell.net/
+Url:		https://aspell.net/
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/%{languagecode}/aspell-%{languagecode}-%{src_ver}.tar.bz2
 
 BuildRequires:	aspell >= 0.50
