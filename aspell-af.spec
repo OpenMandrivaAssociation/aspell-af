@@ -8,8 +8,8 @@
 
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
-Version:	0.50.0
-Release:	24
+Version:	0.50_0
+Release:	1
 Group:		System/Internationalization
 License:	LGPL
 Provides:	spell-%{languagecode}
